@@ -1,5 +1,5 @@
 # Description
-We analyze single nuclei transcriptomic of brain from nurses and foragers (two typical social divisions), to describe behavioral plasticity in the honey bee (Apis melifera).
+To describe behavioral plasticity in the honey bee (Apis melifera), we analyze single nuclei transcriptomic of brain from nurses and foragers (two typical social divisions).
 
 These scripts are mainly used in our analysis, including:  
 (1) Single nuclei RNA data integration and clustering.   
