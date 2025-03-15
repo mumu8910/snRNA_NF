@@ -6,6 +6,7 @@ These scripts are mainly used in our analysis, including:
 (2) Statistics for cell type frequency
 (3) Differential gene-expression between groups based on pseudo bulk
 (4) SCENIC analysis
+(5)Cross-species cell type similarity analysis 
 
 Tips:
 If you want to use our scripts for analysis, some parameters needs to be modified according to your own environment.
