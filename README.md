@@ -13,3 +13,8 @@ These scripts are mainly used in our analysis, including:
 
 **Tips:**  
 If you want to use our scripts for analysis, some parameters need to be modified according to your own environment.
+
+---
+
+**Raw data:**  
+The raw single-nucleus RNA-seq data generated in this study have been deposited in the CNGB Sequence Archive of China National GeneBank DataBase under accession code **[CNP0003087](https://db.cngb.org/search/project/CNP0003087)**.
